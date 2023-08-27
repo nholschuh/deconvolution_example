@@ -1,8 +1,5 @@
 name: binder-environment
 dependencies:
-  - python
   - numpy
-  - pip
-  - pip:
-    - matplotlib
-    - scipy
+  - matplotlib
+  - scipy
